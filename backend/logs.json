@@ -1,0 +1,14 @@
+[
+  {
+    "id": "agent_3",
+    "name": "interviewer",
+    "state": "processing",
+    "last_updated": "2025-04-06T18:43:50.352847Z",
+    "logs": [
+      {
+        "timestamp": "2025-04-06T18:43:50.352842Z",
+        "message": "Interview started for a candidate."
+      }
+    ]
+  }
+]
